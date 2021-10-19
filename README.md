@@ -5,14 +5,17 @@ Thank you [Jawakar](https://medium.com/@jawakarselvavinayagam) - a data scientis
 
 Thank you [Sameeha Rahman](https://www.kaggle.com/sameeharahman/preprocessed-snake-images) for the pre-processed snakes image dataset.
 
+# Note:
+I apologize in advance for all the typos in the demo. They will be fixed when I retrain the model. 
 # Result
+Training 6 types (about 5500 pictures) yields 87% accuracy
 ![Accuracy](https://github.com/Hanh-hub/Texas-Snake-classifier-with-ResNet-18-CNN-machine-learning/blob/main/accuracy%20log.PNG)
+![Confustion matrix](https://github.com/Hanh-hub/Texas-Snake-classifier-with-ResNet-18-CNN-machine-learning/blob/main/confusion%20matrix.png)
 
-As we trained more classes, there are more misclassifcation between spices and the accuracy thus reduced. 
+As we trained more classes, there are more misclassifcation between species  and the accuracy thus reduced. 
 Training 2000 picturs of rattle snakes and harmless water snakes give 97% accuracy. 
 ![Accuracy when there are only two classes ](https://github.com/Hanh-hub/Texas-Snake-classifier-with-ResNet-18-CNN-machine-learning/blob/main/accuracy%20log%202%20classes.PNG)
-![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
-![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
-![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
-![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
-![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
+
+
+![Testing results -black rat snake](https://github.com/Hanh-hub/Texas-Snake-classifier-with-ResNet-18-CNN-machine-learning/blob/main/Testing%20result%201.PNG)
+![Testing result - dekay brown snake ](https://github.com/Hanh-hub/Texas-Snake-classifier-with-ResNet-18-CNN-machine-learning/blob/main/Testing%20result%202.PNG)
